@@ -7,7 +7,6 @@
 
 ```bash
   npm install
-  cd expense_tracker
   npm run dev
 ```
 # Technology used
